@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.514d514c.css",
+    "main.js": "/static/js/main.8c498182.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/l6shimg.png": "/static/media/l6shimg.5215dff016d71dd50ae2.png",
+    "static/media/l7shimg1.png": "/static/media/l7shimg1.1f36bb9276853f5ee4c0.png",
+    "static/media/l2shimg2.png": "/static/media/l2shimg2.a2b88dd7c69ed26bad68.png",
+    "static/media/l3shimg1.png": "/static/media/l3shimg1.a097d14f0d97e72c07ca.png",
+    "static/media/l1_sh_img2.png": "/static/media/l1_sh_img2.7ab108bdf702e52d05db.png",
+    "static/media/l1_sh_img1.png": "/static/media/l1_sh_img1.31742997809b4a71f0f2.png",
+    "static/media/l7shimg2.png": "/static/media/l7shimg2.d4ad151be6f1b1001134.png",
+    "static/media/l4shimg1.png": "/static/media/l4shimg1.0db5502e10ffc9f95c73.png",
+    "static/media/l2shimg1.png": "/static/media/l2shimg1.e1fbdcb093d148d0c4d0.png",
+    "static/media/l4shimg2.png": "/static/media/l4shimg2.5f7f048ebf6cae61a59f.png",
+    "static/media/l5shimg3.png": "/static/media/l5shimg3.683c1946dc3e456120bf.png",
+    "static/media/l5shimg2.png": "/static/media/l5shimg2.351cc80cf46ea399661f.png",
+    "static/media/l5shimg5.png": "/static/media/l5shimg5.fb313ef81a6f97dc713b.png",
+    "static/media/l5shimg4.png": "/static/media/l5shimg4.f43cb0271bd95a3047ab.png",
+    "static/media/l4shimgroll.png": "/static/media/l4shimgroll.b9e4ec54131668b81f2f.png",
+    "static/media/l4shimgpizza.png": "/static/media/l4shimgpizza.0dd9fc639d051ac4e547.png",
+    "static/media/l3shimg2.png": "/static/media/l3shimg2.e9e087f3640c36e03f58.png",
+    "static/media/l5shimg1.png": "/static/media/l5shimg1.e2b53c772192457b11d0.png",
+    "static/media/l4shimgbun.png": "/static/media/l4shimgbun.5845a18d030ff5a46660.png",
+    "index.html": "/index.html",
+    "main.514d514c.css.map": "/static/css/main.514d514c.css.map",
+    "main.8c498182.js.map": "/static/js/main.8c498182.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.514d514c.css",
+    "static/js/main.8c498182.js"
+  ]
+}
